@@ -8,6 +8,16 @@
 - 无其他模组前置
 - 语言：简体中文 / English
 
+## 截图 Screenshots
+
+![天工神铸封面：百炼锻造与六柄特效神剑](docs/screenshots/01_cover.png)
+
+![六柄特效神剑](docs/screenshots/02_swords.png)
+
+![百炼锻造小游戏](docs/screenshots/03_forge.png)
+
+![天工神铸玩法一览](docs/screenshots/04_features.png)
+
 ## 下载
 
 请到 [Releases](../../releases) 页面下载 jar（版本 1.0.1）。
